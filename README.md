@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a Junior Software Engineer by gainging experience and knowledege working on exciting projects with others.
 - 🌱 I’m currently learning Javascript but I have experience with HTML, CSS, Git, GitHub, VSCode, Figma, and learnong more all the time.
 - 💞️ I’m looking to collaborate on lading pages and anything involving Javascript.
-- 📫 How to reach me ...
+- 📫 How to reach me 
 - 😄 Pronouns: She/Her
 - ⚡ Hobbies: I love to crochet, watch youtube videos, and go for walks.
 
